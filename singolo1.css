@@ -2,11 +2,6 @@ body {
   width: 1020px;
   margin: 0;
   padding: 0;
-}
-body {
-  width: 1020px;
-  margin: 0;
-  padding: 0;
   font-family: 'Lato', Verdana, sans-serif;
   
 }
@@ -65,17 +60,4 @@ li + li:before {
   /*margin-left: 22px;*/
   display: inline;
     margin: 39px 40px 30px 0;
-}
-.header {
-  font-family: 'Lato', Verdana, sans-serif;
-  
-  
-}
-
-.logo-star {
-  color: #FFFFFF;
-}
-
-.logo {
-  text-transform: uppercase;
 }
